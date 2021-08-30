@@ -10,4 +10,4 @@
 ## This is a heading 2
 ### This is a heading 3
 
-< This is a quote from someone
+> This is a quote from someone
