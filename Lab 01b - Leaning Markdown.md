@@ -1,6 +1,6 @@
   # On The Growth Mindset
   
-  The growth mindset is about learning to see challenges as learning opportunities. Growth can only be made with effort so it's neccessary to work through obstacles to gain experience while working towards mastering a concept.
+  The **growth mindset** is about learning to see challenges as learning opportunities. Growth can only be made with effort so it's neccessary to work through obstacles to gain experience while working towards mastering a concept.
   
   ## A few things to keep in mind:
   
