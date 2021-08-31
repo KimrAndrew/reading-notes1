@@ -36,3 +36,9 @@ Text editors and IDE's seem to be built for different purposes, it appears that 
   - a file or directory location relative to the current directory
 - Absolute Path
   - a file or directory location in relation to the root
+
+### Path Shortcuts
+
+~: home directory
+.: current directory
+..: parent directory
