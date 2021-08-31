@@ -16,3 +16,19 @@ Github pages is a _quick_ and _easy_ way to launch a website. It uses **Markdown
 2. __ for italics __ (two correct)
 3. __ Strikethrough __
 4. __ Bold and Italic __
+
+### Quoting Text
+1. __ Before text creates a quote.
+
+### Quoting Code
+1. __ can be used to call out code in a sentence.
+
+### Links
+1. __ text __ __ link __ creates an inline link
+
+### Images
+1. -- -- alt text -- -- image link -- \*embed an image
+
+### Lists
+1. The two types of lists are _________ and ___________ . The first is indicated by a -, the second by a 1.
+
