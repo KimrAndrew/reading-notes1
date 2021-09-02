@@ -8,4 +8,5 @@
 - Reading 6
 
 ## About Me
+
 Hi, My name is Andrew Kim and I am a fledgling software developer.
