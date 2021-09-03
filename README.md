@@ -6,7 +6,8 @@
 - Reading 4
 - Reading 5
 - Reading 6
-
+- Reading 7
+- [Reading 8](https://github.com/KimrAndrew/reading-notes1/blob/main/reading-notes8.md)
 ## About Me
 
 Hi, My name is Andrew Kim and I am a fledgling software developer.
