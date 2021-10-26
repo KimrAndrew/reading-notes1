@@ -27,6 +27,24 @@
 - Reading 14
 - Reading 15
 
+## Code 301 Readings
+
+- [Reading 1](https://github.com/KimrAndrew/reading-notes1/blob/main/301/reading-01.md)
+- Reading 2
+- Reading 3
+- Reading 4
+- Reading 5
+- Reading 6
+- Reading 7
+- Reading 8
+- Reading 9
+- Reading 10
+- Reading 11
+- Reading 12
+- Reading 13
+- Reading 14
+- Reading 15
+
 ## About Me
 
 Hi, My name is Andrew Kim and I am a fledgling software developer.
