@@ -1,7 +1,7 @@
 # Read: Class 01 - Component-Based Architecture & Props
 
 ## Component-Based Architecture
-from 
+from [https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
   
   1. What is a "component"?
     - A modular set of functionality that encapsulates its implementation
@@ -24,7 +24,7 @@ from
     - Independent
 
 ## What is Props and How to Use in React
-from
+from [https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
 
   1. What is "props" short for?
     - "props" is a keyword in React which is used to pass data down from one component to another
