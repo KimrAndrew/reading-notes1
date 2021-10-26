@@ -30,7 +30,7 @@
 ## Code 301 Readings
 
 - [Reading 1](https://github.com/KimrAndrew/reading-notes1/blob/main/301/reading-01.md)
-- Reading 2
+- [Reading 2](https://github.com/KimrAndrew/reading-notes1/blob/main/301/reading-02.md)
 - Reading 3
 - Reading 4
 - Reading 5
