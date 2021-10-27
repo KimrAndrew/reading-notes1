@@ -48,7 +48,7 @@
     let objOne = {...objOneName,...objOneData};
   ```
 
-## (How to Pass Functions Between Components)[https://www.youtube.com/watch?v=c05OL7XbwXU]
+## [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
 
 1. In the video, what is the first step that the developer does to pass functions between components?
   - they pass the method just like any other prop
