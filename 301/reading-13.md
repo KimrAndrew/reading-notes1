@@ -17,6 +17,7 @@ Review the data: Employee breakdown of key technology companies
   - Companies are losing out on great talent
   - Diverse companies can better serve a diverse user base
   - it's the right thing to do
+
 When are diversity efforts most successful?
   - when they are driven by commitment from company leaders
 
