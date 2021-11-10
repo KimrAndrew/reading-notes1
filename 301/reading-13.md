@@ -7,7 +7,7 @@ Why does it matter that males had been playing on computers growing up?
   - it gave them an advantage in college over people who didn't grow up using computers
 Review the data: Employee breakdown of key technology companies
   
-What three take-a-ways do you have looking at this data?
+## What three take-a-ways do you have looking at this data?
   - there's a noticable difference in the amount of non-white employees in tech between 2016 and 2017
   - Congress and Fortune 500 CEO's are almost entirely male
   
