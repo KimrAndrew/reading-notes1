@@ -19,7 +19,9 @@ Review the data: Employee breakdown of key technology companies
   - it's the right thing to do
 When are diversity efforts most successful?
   - when they are driven by commitment from company leaders
+
 Why do diverse companies perform better?
   - diverse groups of people have more diverse ways of seeing a problem
+
 Give an example of how a diverse company can serve a diverse user base or vise-versa.
   - Having an almost entirely right-handed team lead to 5% to 10% of videos being uploaded upside down from YouTube's iOS app because it failed to take into account how left-handed users would use the app
