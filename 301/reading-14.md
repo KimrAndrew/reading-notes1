@@ -5,6 +5,7 @@
 2. Give an example of what using OAuth would look like.
   - logging into another website using your google account
 3. How does OAuth work? What are the steps that it takes to authenticate the user?
+
   1. first website connects to the second website using OAuth, providing the user's verified identity
   2. second site generates a on-time token and a onetime secret unique to that transaction
   3. first site gives this token and secret to the user's client software
