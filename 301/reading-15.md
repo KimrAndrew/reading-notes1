@@ -1,5 +1,7 @@
 # Web Request Response Cycle
 
+![Web Request Response Cycle](https://github.com/KimrAndrew/reading-notes1/blob/main/images/WRRC.PNG)
+
 ## Client Sends an Http Request
   - url string 
   - common requests include
