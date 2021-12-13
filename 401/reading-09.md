@@ -17,6 +17,11 @@ Three Sigma Rule
   - given a normal distribution:
     - 68% of observation will fall within one standard deviation
     - 95% within two
-    - 99.7% within 3
+    - 99.7% within 
+
+Z-score
+
+  - Given a data point how many standard deviations is it away from the mean?
+  - 
 
 
