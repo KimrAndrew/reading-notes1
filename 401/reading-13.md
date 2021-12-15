@@ -4,9 +4,9 @@
 
 - Regression searches for relationships among variables
 
-- Features: **Independant Variables** that influence the **Dependant Variable**
+- Features: **Independent Variables** that influence the **Dependent Variable**
 
-- Observation: The **Dependant Variable** being influenced by the **Independant Variables**
+- Observation: The **Dependent Variable** being influenced by the **Independent Variables**
 
 - Find a function that maps some features to others sufficiently well
 
@@ -18,13 +18,13 @@
 
 ### Simple Linear Regression
 
-- simplest case with a single independant variable
+- simplest case with a single independent variable
 
 ### Multiple Linear Regression
 
-- two or more independant variables
+- two or more independent variables
 
-### Polynomia Regression
+### Polynomial Regression
 
 - generalized case of linear regression
 
