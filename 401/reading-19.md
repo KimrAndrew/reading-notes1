@@ -20,3 +20,5 @@
 | \r | Matches return |
 | \b | Matches only the beginning or end of a word |
 | + | Checks if the preceding character appears one or more times |
+| * | Checks if the preceding character appears zero or more times |
+| ? | Checks if the preceding character appears zero or one times \nSpecifies a non-greedy version of +,* |
