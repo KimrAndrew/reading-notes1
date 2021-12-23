@@ -21,4 +21,7 @@
 | \b | Matches only the beginning or end of a word |
 | + | Checks if the preceding character appears one or more times |
 | * | Checks if the preceding character appears zero or more times |
-| ? | Checks if the preceding character appears zero or one times \nSpecifies a non-greedy version of +,* |
+| ? | Checks if the preceding character appears zero or one times or specifies a non-greedy version of +,* |
+| { } | Checks for an explicit number of times |
+| ( ) | Creates a group when performing matches |
+| < > | Creates a named group when performing matches |
