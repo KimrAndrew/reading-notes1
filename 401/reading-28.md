@@ -21,7 +21,7 @@ Generic Form edititng views for CRUD functionality
 - error messages for invalid fields
 - methods for rendering itself in templates
 
-##Declaring a form
+## Declaring a form
 
 ```python
 from django import forms
