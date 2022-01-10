@@ -1,7 +1,7 @@
 # [Django Best Practices: Custom User Model](https://learndjango.com/tutorials/django-custom-user-model)
 
-Django ships with a built-in User model \n
-Django docs highly reccomend using a custom model
+Django ships with a built-in User model,
+the Django docs highly reccomend using a custom model
 
 ## Setup
 
